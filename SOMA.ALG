@@ -10,11 +10,6 @@ numero1 : inteiro
 numero2 : inteiro
 soma : inteiro
 
-numero3 : inteiro
-numero4 : inteiro
-subtracao : inteiro
-
-
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
  
@@ -24,10 +19,5 @@ escreva ("Digite outro numero: ")
 leia (numero2)
 soma<-numero1+numero2
 escreva (soma)
-
-escreva ("Digite um numero para subtracao: ")
-leia (numero3)
-escreva ()
-
 
 Fimalgoritmo
