@@ -1,7 +1,7 @@
 # Exercicios de logica de programação da apostila faccat
 
 ## 💻 Lista de Exercícios de Lógica de Programação
-Este repositório contém 49 exercícios da apostila de lógica de programação da FACCAT que me ajudou a fixar os conceitos de lógica.
+Este repositório contém 49 exercícios da apostila de lógica de programação da FACCAT feito no software de programação de codigo estruturado chamado VisualG.
 
 ## 🚀 Sobre o Projeto e Aprendizados
 Este projeto foi fundamental para o meu desenvolvimento em lógica de programação. Os exercícios focaram em construir uma base sólida, essencial para qualquer linguagem de programação futura.
@@ -9,7 +9,7 @@ Este projeto foi fundamental para o meu desenvolvimento em lógica de programaç
 ### Os principais tópicos abordados e dominados foram:
 
 ### 1. Estruturas de Decisão (SE/SENÃO)
-Aprendi a utilizar as estruturas condicionais para controlar o fluxo de execução do programa. As variações exploradas incluem:
+#### Aprendi a utilizar as estruturas condicionais para controlar o fluxo de execução do programa. As variações exploradas incluem:
 
 Decisão Simples: Executa um bloco de código se a condição for verdadeira.
 
@@ -18,7 +18,7 @@ Decisão Composta: Executa um bloco se a condição for verdadeira e outro se fo
 Decisão Encadeada: Utiliza múltiplas condições (SE/SENÃO SE/SENÃO).
 
 ### 2. Estruturas de Repetição (Laços)
-Fui apresentado e dominei o uso de laços para repetir blocos de código. As estruturas de repetição abordadas são:
+#### Fui apresentado e dominei o uso de laços para repetir blocos de código. As estruturas de repetição abordadas são:
 
 ENQUANTO (While): Repetição que testa a condição antes de executar.
 
